@@ -52,4 +52,4 @@ server.listen(3000, function(){
     console.log("Server listening ");		
     
 });
-module.exports = server;
+
